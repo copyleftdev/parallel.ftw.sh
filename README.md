@@ -1,5 +1,5 @@
 
-# Parallel.ftw.sh🚀
+# parallel.ftw.sh🚀
 
 > Run shell scripts in parallel for faster execution.
 
