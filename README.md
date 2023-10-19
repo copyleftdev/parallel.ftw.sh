@@ -18,4 +18,4 @@ chmod +x parallel_script.sh
 - Multiple Functions
 - Easy to Use
 
-Made with ❤️ by [Your Name](https://github.com/copyleftdev)
+Made with ❤️ by [copyleftdev](https://github.com/copyleftdev)
